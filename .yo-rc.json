@@ -38,7 +38,7 @@
     "skipCheckLengthOfIdentifier": false,
     "skipFakeData": false,
     "skipUserManagement": false,
-    "testFrameworks": [],
+    "testFrameworks": ["gatling"],
     "websocket": false,
     "withAdminUi": true
   }
